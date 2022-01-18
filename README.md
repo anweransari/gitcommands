@@ -1,2 +1,2 @@
 # gitcommands
-This project contain some useful git related commands
+This project contain many useful git related commands. It may contain links to other topics.
